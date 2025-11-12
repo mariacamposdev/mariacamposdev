@@ -1,5 +1,5 @@
 Hi, I'm María 👋  
-I'm a Full Stack Developer & Cybersecurity Technician from Costa Rica. 🇨🇷  
+**I'm a Full Stack Developer & Cybersecurity Technician from Costa Rica.** 🇨🇷  
 
 💼 I currently work independently building digital tools, automation workflows and data-driven solutions for personal, business and administrative systems.  
 
